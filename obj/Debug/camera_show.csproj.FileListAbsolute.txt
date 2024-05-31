@@ -1,0 +1,86 @@
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\camera_show.exe.config
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\camera_show.exe
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\camera_show.pdb
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\ZedGraph.dll
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.Form1.resources
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.Properties.Resources.resources
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.csproj.GenerateResource.Cache
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.exe
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.pdb
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\zxing.dll
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\zxing.presentation.dll
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\Emgu.CV.World.dll
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\bin\Debug\camera_show.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\bin\Debug\camera_show.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\bin\Debug\camera_show.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.csproj.GenerateResource.Cache
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\bin\Debug\camera_show.exe.config
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\bin\Debug\camera_show.exe
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\bin\Debug\camera_show.pdb
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\obj\Debug\camera_show.csprojAssemblyReference.cache
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\obj\Debug\camera_show.Form1.resources
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\obj\Debug\camera_show.Properties.Resources.resources
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\obj\Debug\camera_show.csproj.GenerateResource.cache
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\obj\Debug\camera_show.csproj.CoreCompileInputs.cache
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\obj\Debug\camera_show.csproj.CopyComplete
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\obj\Debug\camera_show.exe
+D:\svn\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header1\Resources\camera_show\obj\Debug\camera_show.pdb
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\bin\Debug\camera_show.exe.config
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\bin\Debug\camera_show.exe
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\bin\Debug\camera_show.pdb
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\obj\Debug\camera_show.csprojAssemblyReference.cache
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\obj\Debug\camera_show.Form1.resources
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\obj\Debug\camera_show.Properties.Resources.resources
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\obj\Debug\camera_show.csproj.GenerateResource.cache
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\obj\Debug\camera_show.csproj.CoreCompileInputs.cache
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\obj\Debug\camera_show.csproj.CopyComplete
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\obj\Debug\camera_show.exe
+D:\SVN\2020_SENSITECTH_SugarLoaf_Automation\2.Design Documents\7.Test Application Program\Main Test Application\Template 10 header2\Resources\camera_show\obj\Debug\camera_show.pdb
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\bin\Debug\camera_show.exe.config
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\bin\Debug\camera_show.exe
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\bin\Debug\camera_show.pdb
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\obj\Debug\camera_show.csprojAssemblyReference.cache
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\obj\Debug\camera_show.Form1.resources
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\obj\Debug\camera_show.Properties.Resources.resources
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\obj\Debug\camera_show.csproj.GenerateResource.cache
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\obj\Debug\camera_show.csproj.CoreCompileInputs.cache
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\obj\Debug\camera_show.csproj.CopyComplete
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\obj\Debug\camera_show.exe
+D:\SVN\2020_SENECO_CITIGRID\2.Design Documents\7.Test Application\TestProgramming\camera\camera_show\obj\Debug\camera_show.pdb
+D:\Projects C#\mini_projeck_template\camera_show\bin\Debug\camera_show.exe.config
+D:\Projects C#\mini_projeck_template\camera_show\obj\Debug\camera_show.exe
+D:\Projects C#\mini_projeck_template\camera_show\obj\Debug\camera_show.pdb
+D:\Projects C#\mini_projeck_template\camera_show\bin\Debug\camera_show.exe
+D:\Projects C#\mini_projeck_template\camera_show\bin\Debug\camera_show.pdb
+D:\Projects C#\mini_projeck_template\camera_show\obj\Debug\camera_show.csprojResolveAssemblyReference.cache
+D:\Projects C#\mini_projeck_template\camera_show\obj\Debug\camera_show.Form1.resources
+D:\Projects C#\mini_projeck_template\camera_show\obj\Debug\camera_show.Properties.Resources.resources
+D:\Projects C#\mini_projeck_template\camera_show\obj\Debug\camera_show.csproj.GenerateResource.Cache
+D:\Projects C#\mini_projeck_template\camera_show - Copy\bin\Debug\camera_show.exe.config
+D:\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.exe
+D:\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.pdb
+D:\Projects C#\mini_projeck_template\camera_show - Copy\bin\Debug\camera_show.exe
+D:\Projects C#\mini_projeck_template\camera_show - Copy\bin\Debug\camera_show.pdb
+D:\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.csprojResolveAssemblyReference.cache
+D:\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.Form1.resources
+D:\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.Properties.Resources.resources
+D:\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.csproj.GenerateResource.Cache
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\bin\Debug\camera_show.exe.config
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\bin\Debug\camera_show.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\bin\Debug\camera_show.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.csproj.AssemblyReference.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.csproj.SuggestedBindingRedirects.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.Form1.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.Properties.Resources.resources
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.csproj.GenerateResource.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.csproj.CoreCompileInputs.cache
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.csproj.CopyComplete
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.exe
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.pdb
+D:\ServerSvn\Projects C#\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.KeyPassword.resources
